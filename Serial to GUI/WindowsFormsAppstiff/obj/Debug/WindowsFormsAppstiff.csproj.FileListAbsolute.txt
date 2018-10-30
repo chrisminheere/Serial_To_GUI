@@ -1,0 +1,9 @@
+D:\OneDrive\Documenten\Code\WindowsFormsAppstiff\WindowsFormsAppstiff\bin\Debug\WindowsFormsAppstiff.exe.config
+D:\OneDrive\Documenten\Code\WindowsFormsAppstiff\WindowsFormsAppstiff\bin\Debug\WindowsFormsAppstiff.exe
+D:\OneDrive\Documenten\Code\WindowsFormsAppstiff\WindowsFormsAppstiff\bin\Debug\WindowsFormsAppstiff.pdb
+D:\OneDrive\Documenten\Code\WindowsFormsAppstiff\WindowsFormsAppstiff\obj\Debug\WindowsFormsAppstiff.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documenten\Code\WindowsFormsAppstiff\WindowsFormsAppstiff\obj\Debug\WindowsFormsAppstiff.Form1.resources
+D:\OneDrive\Documenten\Code\WindowsFormsAppstiff\WindowsFormsAppstiff\obj\Debug\WindowsFormsAppstiff.Properties.Resources.resources
+D:\OneDrive\Documenten\Code\WindowsFormsAppstiff\WindowsFormsAppstiff\obj\Debug\WindowsFormsAppstiff.csproj.GenerateResource.Cache
+D:\OneDrive\Documenten\Code\WindowsFormsAppstiff\WindowsFormsAppstiff\obj\Debug\WindowsFormsAppstiff.exe
+D:\OneDrive\Documenten\Code\WindowsFormsAppstiff\WindowsFormsAppstiff\obj\Debug\WindowsFormsAppstiff.pdb
